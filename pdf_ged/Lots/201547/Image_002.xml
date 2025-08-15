@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XMLDoc>
+  <rotation>0</rotation>
+  <etat>1</etat>
+  <type>1</type>
+  <crop>
+    <left>10</left><top>20</top><width>100</width><height>200</height>
+  </crop>
+  <meta>
+    <numaxa>201547_PLI1</numaxa>
+    <service>PLI_DATA</service>
+    <pole>PoleX</pole><complexe>CompY</complexe><gestionnaire>GestZ</gestionnaire>
+  </meta>
+</XMLDoc>

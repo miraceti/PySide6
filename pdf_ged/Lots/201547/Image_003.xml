@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XMLDoc>
+  <rotation></rotation>
+  <etat></etat>
+  <type></type>
+  <crop>
+    <left></left><top></top><width></width><height></height>
+  </crop>
+  <meta>
+    <numaxa></numaxa>
+    <service></service>
+    <pole></pole><complexe></complexe><gestionnaire></gestionnaire>
+  </meta>
+</XMLDoc>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XMLDoc>
+  <rotation>0</rotation>
+  <etat>0</etat>
+  <type>1</type>
+  <crop>
+    <left>0</left><top>0</top><width>0</width><height>0</height>
+  </crop>
+  <meta>
+    <numaxa>201546_INFO</numaxa>
+    <service>INFO_DOSSIER</service>
+    <pole></pole><complexe></complexe><gestionnaire></gestionnaire>
+  </meta>
+</XMLDoc>

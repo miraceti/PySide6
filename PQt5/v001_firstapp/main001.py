@@ -50,6 +50,7 @@ def random_word1():
 def random_word2():
     word = choice(my_words)
     text2.setText(word)
+    
 
 def random_word3():
     word = choice(my_words)

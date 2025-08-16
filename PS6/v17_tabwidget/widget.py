@@ -41,5 +41,5 @@ class Widget(QWidget):
 
 
     def button_1_clicked(self):
-        pass
+        print("Button clicked")
 

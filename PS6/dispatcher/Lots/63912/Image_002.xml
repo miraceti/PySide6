@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XMLDoc xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <rotation>0</rotation>
+  <etat>1</etat>
+  <type>2</type>
+  <crop>
+    <left>0</left>
+    <top>0</top>
+    <width>0</width>
+    <height>0</height>
+  </crop>
+  <meta>
+    <numaxa />
+    <service />
+    <pole>25_PRODUCTION_IMMO</pole>
+    <complexe>10618439704 - DEVAUX  A72128 44250656400016 - MME GEBHART DENISE 54000 NANCY - WP01</complexe>
+    <gestionnaire>LEROY Victor</gestionnaire>
+    <titreobjet>DEMANDE MISE A JOUR ADRESSE</titreobjet>
+  </meta>
+</XMLDoc>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XMLDoc xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <rotation>0</rotation>
+  <etat>1</etat>
+  <type>2</type>
+  <crop>
+    <left>0</left>
+    <top>0</top>
+    <width>0</width>
+    <height>0</height>
+  </crop>
+  <meta>
+    <numaxa />
+    <service />
+    <pole>45_PRODUCTION_FLOTTE_AUTOMOBILE</pole>
+    <complexe>7576126504/02092 - NETSAH  A75706 49129244700019 - FV-020-MF - WP01</complexe>
+    <gestionnaire>BOURHANI Hafoussoit</gestionnaire>
+    <titreobjet>NPAI</titreobjet>
+  </meta>
+</XMLDoc>

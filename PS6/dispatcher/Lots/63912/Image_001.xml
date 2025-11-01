@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XMLDoc xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <rotation>0</rotation>
+  <etat>0</etat>
+  <type>1</type>
+  <crop>
+    <left>0</left>
+    <top>0</top>
+    <width>0</width>
+    <height>0</height>
+  </crop>
+  <meta>
+    <numaxa>C_ProdBU_13/03/2025_16h16</numaxa>
+    <service>80_SERVICE_COMMERCIAL_ENTREPRISE</service>
+    <pole />
+    <complexe />
+    <gestionnaire />
+  </meta>
+</XMLDoc>

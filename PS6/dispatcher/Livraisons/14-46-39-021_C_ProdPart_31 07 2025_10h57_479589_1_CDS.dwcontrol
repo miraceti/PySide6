@@ -1,0 +1,18 @@
+<ControlStatements xmlns="http://dev.docuware.com/Jobs/Control" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Page>
+<Field dbName="STATUT" type="string" value="DISP_NEW"/>
+<Field dbName="TYPE_DOCUMENT" type="string" value="*"/>
+<Field dbName="TYPE_ENREGISTREMENT" type="string" value="DOC"/>
+<Field dbName="DATE_ACQUISITION" type="DATE" value="18/08/2025" format="dd/MM/yyyy"/>
+<Field dbName="NO_PLI" type="string" value="0000479589"/>
+<Field dbName="NO_BOITE" type="string" value="C_ProdPart_31/07/2025_10h57"/>
+<Field dbName="POLE" type="string" value="56"/>
+<Field dbName="SOCIETE" type="string" value="SATEC"/>
+<Field dbName="SOURCE_WINPASS" type="string" value="CHALONS"/>
+<Field dbName="TITRE_OBJET" type="string" value="RETIERE - ORANGE - DEMANDE DE RESILIATION CLIENT"/>
+<Field dbName="COMPLEXE" type="string" value="*"/>
+</Page>
+<Document>
+<InsertFile path="C_ProdPart_31 07 2025_10h57_479589_1_CDS.pdf"/>
+</Document>
+</ControlStatements>

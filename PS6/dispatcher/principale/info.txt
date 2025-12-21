@@ -1,0 +1,8 @@
+app/
+├── main.py
+├── main_window.py
+└── forms/
+    ├── home_view.py
+    ├── form_intercalaire.py
+    ├── form_scan.py
+    └── form_dispatcher.py
